@@ -1,0 +1,5 @@
+class RenameLookingForColumnInUsers < ActiveRecord::Migration[6.0]
+  def change
+    rename_column :users, :looking_for, :parties
+  end
+end
