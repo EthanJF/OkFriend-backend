@@ -4,6 +4,7 @@
 </blockquote>
 <hr></hr>
   <h3><a href="https://okfriend.netlify.app/" target="_blank" >Check it out on Netlify!</a></h3>
+  <h3>This is the backend repo! Find the frontend <a href="https://github.com/EthanJF/OkFriend-frontend" target="_blank">here</a></h3>
 <hr></hr>
 <p><strong>Built With:</strong></p>
 <ul>
@@ -27,8 +28,6 @@
     <li>A search feature where you can search by gender, age, distance, and interest</li>
 </ul>
 <hr>
-</hr>
-<h3>This is the backend repo! Find the frontend <a href="https://github.com/EthanJF/OkFriend-frontend" target="_blank">here</a></h3>
 </hr>
 <h3>Demo Video</h3>
 <a href="https://www.youtube.com/watch?v=2_kQhrBMee4" target="_blank"><img src="https://img.youtube.com/vi/2_kQhrBMee4/0.jpg" alt="OkFriend Video Demo"/>
