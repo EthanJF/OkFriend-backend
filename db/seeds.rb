@@ -8,7 +8,7 @@
 Interest.destroy_all
 User.destroy_all
 
-users = RestClient.get 'https://randomuser.me/api/?results=500'
+users = RestClient.get 'https://randomuser.me/api/?results=100'
 
 zip_codes = RestClient.get 'https://zippopotam.us/us/ny/new%20york%20city'
 
